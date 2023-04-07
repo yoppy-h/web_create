@@ -1,0 +1,23 @@
+.header{
+    background-color:blue;
+    margin:20px 50px;
+}
+.header-logo{
+    color:yellow;
+    float:left;
+}
+.header-list{
+    float:right;
+    
+}
+.header-list li{
+    padding:20px;
+    list-style:none;
+    float:left;
+}
+.main{
+    background-color:wheat;
+}
+.introduction{
+    
+}
