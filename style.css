@@ -1,19 +1,20 @@
 .header{
-    background-color:blue;
-    margin:20px 50px;
+    background-color: aqua;
+    display:flex;
 }
 .header-logo{
     color:yellow;
-    float:left;
+    /*float:left;*/
 }
-.header-list{
-    float:right;
-    
+.header-list ul{
+    /*float:right;*/
+    display:flex;
+    list-style:none;
 }
 .header-list li{
     padding:20px;
-    list-style:none;
-    float:left;
+    
+    
 }
 .main{
     background-color:wheat;
